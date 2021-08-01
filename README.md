@@ -2,7 +2,7 @@
 
 ## วิธีการ Login
 
-- [Authorization Code (Staging)](/grant/staging-auth-code.md)
+- [Authorization Code (Staging)](/grant/README.md)
 
 <br/>
 
